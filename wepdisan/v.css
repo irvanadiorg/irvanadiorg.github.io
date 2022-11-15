@@ -1,0 +1,56 @@
+*,
+html{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(bagroun.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+}
+.cmp-navigationbar{
+   margin-left: 700px;
+   margin-top: 20PX;
+   font-size: 20px;
+   display: flex;
+
+}
+.vn-navigationbar{
+   list-style: none;
+   padding: 40px;
+   height: 20px;
+
+}
+.container-lik{
+    color: aliceblue;
+    font-size: 20px;
+    text-decoration-line: none;
+}
+.container-warnaadi{
+    color: rgb(255, 94, 0);
+    font-family:  sans-serif;
+}
+.container-namabelakang{
+    color: aliceblue;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.container-perusahan{
+    margin-left: 100px;
+    margin-top: 110px;
+}
+.container-namabelakangperusahan{
+    display: flex;
+    margin-top: 10px;
+    color: aliceblue;
+    font-size: 21px;
+}
+.container-namabelakangperusahan1{
+    color: aliceblue;
+    font-size: 21px;
+}
+.container-profilsingkat{
+    margin-left: 100px;
+    color: aliceblue;
+    font-size: 21px;
+}
